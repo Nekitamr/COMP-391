@@ -215,3 +215,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosion: {fileID: 2505468216045853306, guid: 5654a19ddb21b0444bc6230ea88550ce,
     type: 3}
+  explosionPlayer: {fileID: 2196993615023221622, guid: 69d5fe66737ec414082bdd882b95a39b,
+    type: 3}
